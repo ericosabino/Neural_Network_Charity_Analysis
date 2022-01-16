@@ -81,4 +81,4 @@ This neural neural network model did not reach the target of 75% accuracy, even 
 
 It seems like the neural network model is overfitted to this data, as even with different configurations the results were the same.
 
-One alternative to the neural network cam be the Random Forest Classifier, as it is an accurate model due to their number of estimators and tree depth. They may also have faster performance than neural networks and avoid the data overfitting situation.
+One alternative to the neural network can be the Random Forest Classifier, as it is an accurate model due to their number of estimators and tree depth. They may also have faster performance than neural networks and avoid the data overfitting situation.
